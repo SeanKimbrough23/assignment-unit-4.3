@@ -28,5 +28,6 @@ console.log('Item in Basket:', basket[4]);
 
 
 function empty (){
-    return basket = [];
+    return basket.length=[];
 }
+console.log(empty(basket));
