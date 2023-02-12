@@ -48,6 +48,8 @@ __Using functions in other functions!__
 
 1. Add a global `const` named `maxItems` and set it to 5.
 
+
+
 2. Create a function called isFull(). It should:
   - return `false` if the basket contains *less* than max number of items
   - return `true` otherwise (equal or more than maxItems)
@@ -58,7 +60,7 @@ __Using functions in other functions!__
   - If there was no room and the item could not be added return `false`
 
 __Using Array built-in functions!__
-
+con
 4. Create a function called `removeItem`. It should:
   - Take an input parameter for a string `item`
   - Use [Array.indexOf](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/indexOf) to find the index of the first matching item in the basket.
@@ -66,6 +68,6 @@ __Using Array built-in functions!__
   - Return the item removed or `null` if the item was not found
 
 ## Assignment Submission
-Check in your repo, then turn in your work via the Prime Academy Assignment Application at http://primeacademy.io, as usual and don't hesitate to hit up the Slack channel as needed!
+Check in your repo, then turn in your work via the Prime Academy Assignment Application at http://primeacademy.io, as usual and don't hesitate to hit up the Slack channel as needed!o
 
 **REMINDER:** Make sure to answer the Slack discussion question for this week!
